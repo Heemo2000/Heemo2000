@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><img align="left" src="images/hello-there.gif" /></td>
     <td>
       <h1>
       <p align = "center">
