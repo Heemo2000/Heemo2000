@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       </p>
       </h1>
       <p align = "center">
-        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+programmer;2+years+experience+of+Unity">
+        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+programmer;Experience+in+Unity">
       </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/himanshu-gupta-33491b1ba/">
