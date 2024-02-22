@@ -96,7 +96,7 @@ Here are some ideas to get you started:
             <img align="center" alt="HimanshuGupta|C" width="40px" src="images/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="HimanshuGupta|C++" width="40px" src="images/cpp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="HimanshuGupta|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="HimanshuGupta|Python" width="40px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="HimanshuGupta|Java" width="40px" src="images/java.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
         <tr>
